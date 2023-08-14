@@ -2,6 +2,8 @@
 .main
   Header
   HeroBlock
+  //- Gallery
+  //- Slider
   AboutUs
   Services
   Scheme
